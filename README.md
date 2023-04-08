@@ -58,6 +58,20 @@ Main Transferable Skills:
 - Self-starter, organized
 - Curious, continuous learner
 
-Interested in SaaS/PaaS/IaaS platforms, DevTools, DevRel, DXP, JAMStack, Headless CMS, API (GraphQL, REST), Data Science (ML, AI), Open Source,
-Microservices architecture, Containers, Cloud Native Infrastructure, Kubernetes, DevOps, SecDevOps, CI/CD (Continuous Integration / Continuous
-Deployment), No-code / Low-code, Automation Workflows, Privacy products, Sustainability, Community building
+Interested in:
+- SaaS/PaaS/IaaS platforms 
+- DevTools
+- DevRel
+- DXP
+- JAMStack
+- Headless CMS
+- API (GraphQL, REST)
+- Data Science (ML, AI)
+- Open Source
+- Microservices architecture, Containers, Cloud Native Infrastructure, Kubernetes, DevOps, SecDevOps, 
+- CI/CD (Continuous Integration / Continuous Deployment)
+- No-code / Low-code
+- Automation Workflows
+- Privacy and Compliance Products
+- Sustainability
+- Community building
