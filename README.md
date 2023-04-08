@@ -38,6 +38,24 @@ Domains:
 
 Markets: B2B, B2C, B2C2B, SaaS, PaaS, IaaS
 
+Interested in:
+- SaaS/PaaS/IaaS platforms 
+- DevTools
+- DevRel
+- DXP
+- JAMStack
+- Headless CMS
+- API (GraphQL, REST)
+- Data Science (ML, AI)
+- Open Source
+- Microservices architecture, Containers, Cloud Native Infrastructure, Kubernetes, DevOps, SecDevOps 
+- CI/CD (Continuous Integration / Continuous Deployment)
+- No-code / Low-code
+- Automation Workflows
+- Privacy and Compliance Products
+- Sustainability
+- Community building
+
 Areas of expertise include Product Management, Product Strategy, Roadmap ownership, Project Management, Budgeting (P&L), Growth Marketing, OKR, Agile
 (Scrum) & Lean (Lean Startup, Lean UX, Kanban), Shape Up, Jobs To Be Done, Venture Design, Market & Personas Analysis, Stakeholders Management, Strategic
 Planning & Execution, Design Thinking, Hook Framework, User Story Mapping, Process Design and Re-engineering, UX Design, SEO, Display Advertising,
@@ -57,21 +75,3 @@ Main Transferable Skills:
 - Team Coordination and Team Management
 - Self-starter, organized
 - Curious, continuous learner
-
-Interested in:
-- SaaS/PaaS/IaaS platforms 
-- DevTools
-- DevRel
-- DXP
-- JAMStack
-- Headless CMS
-- API (GraphQL, REST)
-- Data Science (ML, AI)
-- Open Source
-- Microservices architecture, Containers, Cloud Native Infrastructure, Kubernetes, DevOps, SecDevOps 
-- CI/CD (Continuous Integration / Continuous Deployment)
-- No-code / Low-code
-- Automation Workflows
-- Privacy and Compliance Products
-- Sustainability
-- Community building
