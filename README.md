@@ -5,7 +5,7 @@
 
 -->
 
-I do Product Management in Tech :)
+I do Product Management in Tech 😊
 
 - 🔭 I’m currently working on Cloud Native, B2B SaaS / PaaS and Developer Tools
 - 🌱 I’m continously learning about Tech Business, Product Methodologies and Development Frameworks
