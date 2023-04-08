@@ -3,6 +3,8 @@
 <!--
 **gianfranco-l/gianfranco-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
+
 I do Product Management in Tech :)
 
 - 🔭 I’m currently working on Cloud Native, B2B SaaS / PaaS and Developer Tools
@@ -10,7 +12,6 @@ I do Product Management in Tech :)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gianfrancolongi/) or [Personal Website](glpm.carrd.co)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am into minimalism and board games. Mastering both at the same time is hard. 
--->
 
 ## TL;DR
 
