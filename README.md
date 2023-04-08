@@ -68,7 +68,7 @@ Interested in:
 - API (GraphQL, REST)
 - Data Science (ML, AI)
 - Open Source
-- Microservices architecture, Containers, Cloud Native Infrastructure, Kubernetes, DevOps, SecDevOps, 
+- Microservices architecture, Containers, Cloud Native Infrastructure, Kubernetes, DevOps, SecDevOps 
 - CI/CD (Continuous Integration / Continuous Deployment)
 - No-code / Low-code
 - Automation Workflows
