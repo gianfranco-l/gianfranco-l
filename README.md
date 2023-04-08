@@ -70,7 +70,6 @@ Main Transferable Skills:
 - Customer Management
 - Time Management
 - Product discovery and Product delivery
-- Market and customer research
 - Sync and Asynchronous Team Working
 - Team Coordination and Team Management
 - Self-starter, organized
