@@ -11,18 +11,17 @@ I take care of Product Management in Tech 😊
 - 🌱 I’m continously learning about Tech Business, Product Methodologies and Development Frameworks
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gianfrancolongi/) or [Personal Website](https://glpm.carrd.co/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am into minimalism and board games. Mastering both at the same time is hard. 
+
 
 ## TL;DR
 
-I am a Senior Product servant continuously involved in the evolution of the Tech industry, with long experience in all kinds of digital product
-opportunities, markets, companies, always using the latest, relevant product methodologies. ENFJ personality: high level of self-discipline,
-professionalism and empathy, leading teams by example.
+Product generalist continuously involved in the evolution of the Tech industry, with long experience in all kinds of digital product
+opportunities, markets, companies, always using the latest, relevant product methodologies. Traits: discipline, empathy, leading by example.
 
 
 ## Full Version
 
-Senior Product Manager with tech background and 10+ yrs exp. in managing large-scale, international software services that significantly improved profitability, taking care of the end-to-end product lifecycle, both in frontend interfaces, backend platforms, and business processes. Managed multi-faceted projects building, leading and mentoring cross-functional, cross-cultural, distributed remote teams across various time-zones, both directly and indirectly. 
+Senior Product Generalist with tech background and 10+ yrs exp. in managing large-scale, international software services that significantly improved profitability, taking care of the end-to-end product lifecycle, both in frontend interfaces, backend platforms, and business processes. Managed multi-faceted projects building, leading and mentoring cross-functional, cross-cultural, distributed remote teams across various time-zones, both directly and indirectly. 
 
 Domains: 
 - Cloud Native Infrastructure, DevOps, Platform Engineering
