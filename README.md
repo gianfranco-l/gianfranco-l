@@ -7,7 +7,7 @@
 
 I take care of Product Management in Tech
 
-- 🔭 I’m currently working on Cloud Native, B2B SaaS / PaaS Developer Tools
+- 🔭 I’m currently working in Developer Experience and Dev Tools
 - 🌱 I’m continously learning about Tech Business, Product Methodologies and Development Frameworks
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gianfrancolongi/) or [Personal Website](https://glpm.carrd.co/)
 - 😄 Pronouns: he/him
